@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./totiuslatinitat00forcgoog_0007.png"; bbox 0 0 3210 5290; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 473 1865 1150 1976">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 473 1865 1150 1976">
+     <span class='ocr_line' id='line_1_1' title="bbox 473 1865 1150 1976; baseline 0.004 -5"><span class='ocrx_word' id='word_1_1' title='bbox 473 1865 1150 1976; x_wconf 85' lang='lat' dir='ltr'><strong>.DIOTIONARY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 632 2297 1229 2406">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 632 2297 1229 2406">
+     <span class='ocr_line' id='line_1_2' title="bbox 632 2297 1229 2406; baseline 0.003 -34"><span class='ocrx_word' id='word_1_2' title='bbox 632 2297 775 2374; x_wconf 66' lang='lat' dir='ltr'><strong>mmm&lt;</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 798 2299 887 2374; x_wconf 70' lang='lat' dir='ltr'><strong>Am)</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 912 2299 1061 2376; x_wconf 71' lang='lat' dir='ltr'><strong>Rom</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1226 2399 1229 2406; x_wconf 12' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 308 2547 1363 2658">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 308 2547 1363 2658">
+     <span class='ocr_line' id='line_1_3' title="bbox 308 2547 1363 2658; baseline -0.017 0"><span class='ocrx_word' id='word_1_6' title='bbox 308 2559 725 2658; x_wconf 83' lang='lat' dir='ltr'>BIOGRAPHY</span> <span class='ocrx_word' id='word_1_7' title='bbox 773 2561 901 2652; x_wconf 74' lang='grc' dir='ltr'><strong>ΛΝΒ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 949 2547 1363 2654; x_wconf 78' lang='lat' dir='ltr'>MYTHOLOGY.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 749 2881 957 2963">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 749 2881 957 2963">
+     <span class='ocr_line' id='line_1_4' title="bbox 749 2881 957 2963; baseline 0.019 -5"><span class='ocrx_word' id='word_1_9' title='bbox 749 2881 869 2961; x_wconf 88' lang='lat' dir='ltr'><strong>VOL.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 895 2881 957 2963; x_wconf 91' lang='lat'><strong>11.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1610 5290">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1610 5290">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1610 5290; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1610 5290; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
